@@ -1,0 +1,50 @@
+<table class="table table-hover">
+                          <thead>
+                            <tr>
+                              <th bgcolor="#fabe58">No</th>
+                              <th bgcolor="#fabe58">Film </th>
+                              <th bgcolor="#fabe58">Studio</th>
+                              <th bgcolor="#fabe58">Jam Tayang </th>          
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr >
+                              <td bgcolor="#16a085" >1</td>
+                              <td bgcolor="#16a085">Moonlight</td>
+                              <td bgcolor="#16a085">A</td>
+                              <td bgcolor="#16a085">10.00 - 12.00</td>
+                             </tr>
+                            <tr>
+                              <td>2</td>
+                              <td>Moonlight</td>
+                              <td>A</td>
+                              <td>12.30 - 14.30</td>
+                            </tr>
+                            <tr>
+                              <td bgcolor="#16a085">3</td>
+                              <td bgcolor="#16a085">Star Wars : Force Awake</td>
+                              <td bgcolor="#16a085">B</td>
+                              <td bgcolor="#16a085">10.00 - 12.00</td>
+                            </tr>
+                              <tr>
+                              <td>3</td>
+                              <td>Star Wars : Force Awake</td>
+                              <td>B</td>
+                              <td>12.30 - 14.30</td>
+                            </tr>
+                             <tr>
+                              <td bgcolor="#16a085">4</td>
+                              <td bgcolor="#16a085">Richard Parker</td>
+                              <td bgcolor="#16a085">C</td>
+                              <td bgcolor="#16a085">10.00 - 12.00</td>
+                            </tr>
+                             <tr>
+                              <td>4</td>
+                              <td>Richard Parker</td>
+                              <td>C</td>
+                              <td>12.30 - 14.30</td>
+                            </tr>
+                          
+                          
+                          </tbody>
+                      </table>

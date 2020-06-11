@@ -1,0 +1,26 @@
+
+.jarak-atas{
+        margin-top: 110px;
+}
+
+body  {
+    background-color: #19b6ff;
+ 
+
+}
+.panel-danger > .panel-heading {
+
+    background-color:#ff6213;
+    border-color:#ff6213;
+}
+.panel-body {
+    padding: 15px;
+    background-color: white;
+    border: none;
+}
+.alert-warning {
+    color: white;
+    background-color: #36D7B7;
+    font-family: Verdana;
+    font-weight: bold;
+}
